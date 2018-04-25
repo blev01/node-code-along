@@ -1,0 +1,22 @@
+{
+  "name": "code-along",
+  "version": "1.0.0",
+  "description": "\"BSCA node code along\"",
+  "main": "project.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blev01/node-code-along.git"
+  },
+  "author": "Kblev01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blev01/node-code-along/issues"
+  },
+  "homepage": "https://github.com/blev01/node-code-along#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
